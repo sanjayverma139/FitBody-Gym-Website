@@ -1,0 +1,93 @@
+/* Add this CSS to your styles file */
+/* Testimonials container */
+.slide_container{
+  width: 50%;
+  
+}
+
+/* Testimonials heading */
+.highlights{
+  margin-top: 50px;
+  text-align: center;
+  color: var(--primary-color);
+}
+
+
+h2 {
+  font-size: 3rem;
+  
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+
+.slider_img{
+  width: 100%;
+  justify-content: space-between;
+}
+
+/* Slider container */
+.slick-slider {
+  width: 80%;
+  
+  margin: 0 auto;
+  justify-content: space-between;
+  
+}
+
+/* Slider content */
+.slick-slide div {
+  
+  text-align: center;
+  text-overflow: ellipsis;
+  margin:0px 15px 0px 2px;
+  
+}
+
+.img_wrapper{
+  border: none;
+  height:330px;
+  background: var(--primary-color);
+  padding:10px;
+  border-radius: 3%;
+  margin-bottom: 20px; 
+ 
+}
+
+
+
+/* Testimonial image */
+.slick-slide img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 0 auto 10px;
+  
+}
+
+/* Testimonial name */
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+/* Testimonial text */
+p {
+  font-size: 18px;
+  color: #edecec;
+  line-height: 1.6;
+}
+
+
+
+.slick-dots li button:before {
+  font-size: 14px; /* Adjust the font size as needed */
+  color: var(--primary-color); /* Set the color to white for the dots before the active dot */
+}
+
+.slick-prev:before, .slick-next:before {
+  color: var(--primary-color); /* Set the color to blue for the slide arrows */
+}

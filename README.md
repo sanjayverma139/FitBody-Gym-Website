@@ -1,8 +1,12 @@
+
+
+
+https://github.com/sanjayverma139/FitBody-Gym-Website/assets/139473767/62184aa3-7750-42ca-b505-1cf8930ce661
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
